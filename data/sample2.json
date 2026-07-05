@@ -1,0 +1,157 @@
+{
+  "matches": [
+    {
+      "title": "Frontend Developer",
+      "matchPercent": 96,
+      "reasoning": "Your proficiency in HTML, CSS, and JavaScript, along with a keen eye for styling and design, makes Frontend development a natural match. You enjoy building visual interfaces and coding up responsive interactions, matching your preference for building user-facing systems.",
+      "skillsYouHave": ["HTML", "CSS", "JavaScript", "Design", "Figma"],
+      "skillsToLearn": ["React.js", "TailwindCSS", "Git", "State Management (Redux/Zustand)", "TypeScript", "REST APIs"],
+      "salaryRange": { "min": 500000, "max": 1300000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "High",
+      "confidenceScore": 98,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Advanced JavaScript & CSS Frameworks",
+          "tasks": [
+            "Master ES6+ features (Promises, Async/Await, Destructuring, Modules).",
+            "Learn TailwindCSS and responsive web design practices.",
+            "Build a responsive landing page using Tailwind and vanilla JS animations."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "React Fundamentals",
+          "tasks": [
+            "Learn React components, props, state, and hooks (useState, useEffect).",
+            "Understand rendering cycles and listing keys.",
+            "Create a dynamic dashboard like a weather app or task manager."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "State Management & Routing",
+          "tasks": [
+            "Learn Single Page Application routing (React Router).",
+            "Understand global state management (Zustand or Redux Toolkit).",
+            "Integrate third-party REST APIs into a React application using Fetch or Axios."
+          ]
+        },
+        {
+          "month": 4,
+          "focus": "TypeScript & Testing",
+          "tasks": [
+            "Learn TypeScript types, interfaces, and generics in a React context.",
+            "Understand unit testing basics using Jest and React Testing Library.",
+            "Convert an existing JS project to TS."
+          ]
+        },
+        {
+          "month": 5,
+          "focus": "Performance & Next.js Basics",
+          "tasks": [
+            "Learn optimization techniques (lazy loading, code splitting, memoization).",
+            "Get familiar with Server-Side Rendering (SSR) using Next.js.",
+            "Build a small SEO-optimized portfolio blog on Next.js."
+          ]
+        },
+        {
+          "month": 6,
+          "focus": "Portfolio Polishing & Deployments",
+          "tasks": [
+            "Optimize and host 3 primary projects on Vercel or Netlify.",
+            "Optimize Google Lighthouse scores for your portfolio site.",
+            "Practice web development interview questions (system design, web security, accessibility)."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "UI/UX Designer",
+      "matchPercent": 88,
+      "reasoning": "You have a strong passion for layout, typography, and design aesthetics. Combining this with your coding knowledge allows you to communicate incredibly well with engineers, which is a rare superpower in UI/UX teams.",
+      "skillsYouHave": ["Design", "Figma", "HTML", "CSS"],
+      "skillsToLearn": ["User Research", "Wireframing & Prototyping", "Design Systems", "Information Architecture", "Usability Testing"],
+      "salaryRange": { "min": 400000, "max": 1100000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "High",
+      "confidenceScore": 92,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Design Fundamentals & Advanced Figma",
+          "tasks": [
+            "Study typography hierarchy, grid systems, and color theory.",
+            "Master Figma Auto-Layout, Components, and Variables.",
+            "Design a responsive desktop and mobile landing page concept."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "User Research & Information Architecture",
+          "tasks": [
+            "Learn user interview techniques and create user personas.",
+            "Map out user flows and design site maps.",
+            "Conduct a heuristic evaluation of an existing product and propose redesign wireframes."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "Interactive Prototyping",
+          "tasks": [
+            "Learn smart-animate and micro-interactions in Figma.",
+            "Create high-fidelity interactive mockups for a mobile application.",
+            "Conduct usability tests on your prototype and document findings."
+          ]
+        },
+        {
+          "month": 4,
+          "focus": "Design Systems & Developer Handoff",
+          "tasks": [
+            "Build a reusable UI library in Figma (buttons, inputs, cards).",
+            "Learn how to write clear design specs for developers.",
+            "Collaborate on a mock handoff workflow."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Product Designer",
+      "matchPercent": 80,
+      "reasoning": "Product Designers look at both business objectives and user needs. Given your interest in design and technical viability (knowing how code works), you can bridge user experience and commercial success.",
+      "skillsYouHave": ["Design", "Figma", "JavaScript"],
+      "skillsToLearn": ["Product Strategy", "Interaction Design", "Business Metrics", "Stakeholder Management", "Rapid Prototyping"],
+      "salaryRange": { "min": 600000, "max": 1400000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "Medium",
+      "confidenceScore": 84,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Product Strategy & UX Research",
+          "tasks": [
+            "Learn product discovery techniques and value proposition mapping.",
+            "Study how UI changes impact key business metrics (conversion, retention).",
+            "Analyze a popular product's user onboarding funnel."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "Advanced Prototyping & Motion",
+          "tasks": [
+            "Learn motion design principles for UI.",
+            "Build complex, interactive application flows using Figma or ProtoPie.",
+            "Run competitive analysis on UI patterns of leading apps."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "Product Delivery & Growth Loop Design",
+          "tasks": [
+            "Study growth loops, referral systems, and premium paywall layouts.",
+            "Design a growth feature experiment dashboard.",
+            "Draft a portfolio case study highlighting business impact of your design choices."
+          ]
+        }
+      ]
+    }
+  ]
+}

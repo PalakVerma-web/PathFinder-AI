@@ -1,0 +1,157 @@
+{
+  "matches": [
+    {
+      "title": "Product Manager",
+      "matchPercent": 92,
+      "reasoning": "You prefer a mixed work style of coding and talking to people, and you thrive in environments where you can coordinate cross-functionally. Your skills in public speaking, writing, and analytical thinking, alongside a background in tech, fit a Product Management profile perfectly.",
+      "skillsYouHave": ["Public Speaking", "Writing", "Data Analysis", "Excel"],
+      "skillsToLearn": ["Product Strategy", "Agile & Scrum", "User Research", "Figma Basics", "Technical Architecture Basics", "SQL for PMs"],
+      "salaryRange": { "min": 800000, "max": 2000000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "High",
+      "confidenceScore": 90,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Product Management Fundamentals",
+          "tasks": [
+            "Learn the Product Lifecycle (Discovery, Definition, Delivery, Optimization).",
+            "Read product classics (e.g., Inspired by Marty Cagan, Swipe to Unlock).",
+            "Pick a product you love and write a Product Requirement Document (PRD) for a new feature."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "Agile Methodologies & User Research",
+          "tasks": [
+            "Learn Scrum frameworks, writing user stories, and managing product backlogs.",
+            "Study how to run user interviews and map customer journeys.",
+            "Create a Miro board mapping out a user journey for an e-commerce checkout flow."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "Product Metrics & Analytics",
+          "tasks": [
+            "Learn SQL basics to query databases independently.",
+            "Master analytics platforms (Amplitude, Mixpanel, or Google Analytics).",
+            "Set up an analytics plan tracking user engagement metrics for a mock web app."
+          ]
+        },
+        {
+          "month": 4,
+          "focus": "UX Design Basics & Technical Architecture",
+          "tasks": [
+            "Learn how to create basic wireframes in Figma.",
+            "Understand high-level technical concepts (APIs, Databases, Frontend vs Backend, Cloud).",
+            "Draw a system architecture diagram explaining how a simple booking app works."
+          ]
+        },
+        {
+          "month": 5,
+          "focus": "Product Strategy & Roadmap Planning",
+          "tasks": [
+            "Learn prioritizing frameworks (RICE, MoSCoW, Value vs Effort).",
+            "Build a sample 6-month product roadmap using Jira or Productboard.",
+            "Formulate a go-to-market (GTM) strategy for a new SaaS product."
+          ]
+        },
+        {
+          "month": 6,
+          "focus": "Mock Interviews & Case Prep",
+          "tasks": [
+            "Practice product case interviews (Product Design, Estimation, Execution).",
+            "Record yourself answering common PM behavioral questions.",
+            "Join PM communities (e.g., Product School, Lenny's Newsletter) and participate in mock interviews."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "matchPercent": 86,
+      "reasoning": "You have solid data analysis, writing, and spreadsheet modeling skills. Business Analysts serve as the link between business departments and IT teams, translating business goals into clean data requirements.",
+      "skillsYouHave": ["Excel", "Data Analysis", "Writing", "Public Speaking"],
+      "skillsToLearn": ["SQL", "Tableau", "Process Mapping", "Requirements Gathering", "UML Diagrams"],
+      "salaryRange": { "min": 500000, "max": 1200000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "Medium",
+      "confidenceScore": 88,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Data Gathering & SQL",
+          "tasks": [
+            "Master intermediate SQL (Joins, aggregations, data grouping).",
+            "Learn requirements gathering techniques (interviews, workshops).",
+            "Write a Business Requirements Document (BRD) for a CRM upgrade."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "Process Modeling & Diagramming",
+          "tasks": [
+            "Learn BPMN (Business Process Model and Notation) and UML diagrams.",
+            "Create process flowcharts in Lucidchart or Visio.",
+            "Map out the current state vs future state of an inventory management process."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "Data Visualization & Communication",
+          "tasks": [
+            "Build interactive reports in Tableau or Power BI.",
+            "Learn to present complex data findings to business stakeholders.",
+            "Deliver a mock presentation on sales performance analysis."
+          ]
+        },
+        {
+          "month": 4,
+          "focus": "Agile Business Analysis",
+          "tasks": [
+            "Learn user story writing and acceptance criteria formulation (Gherkin format).",
+            "Practice refining a product backlog as a BA.",
+            "Earn a basic certification (e.g., ECBA or Scrum Product Owner)."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Systems Analyst",
+      "matchPercent": 78,
+      "reasoning": "Systems Analyst focuses heavily on configuring software packages, managing technical requirements, and ensuring systems integrate. Matches your structured writing style and detail orientation.",
+      "skillsYouHave": ["Writing", "Data Analysis"],
+      "skillsToLearn": ["Systems Architecture", "API Integration", "SQL", "Cybersecurity Basics", "Cloud Services (AWS)"],
+      "salaryRange": { "min": 550000, "max": 1100000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "Medium",
+      "confidenceScore": 82,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Systems Integration & SQL",
+          "tasks": [
+            "Learn basic database relational structure and SQL queries.",
+            "Understand REST and SOAP API structures.",
+            "Map API fields between two different systems."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "System Design Documentation",
+          "tasks": [
+            "Draft a system architecture design document.",
+            "Learn data flow diagrams (DFD) and sequence diagrams.",
+            "Specify database schema requirements for a new feature."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "Cloud Infrastructure Basics",
+          "tasks": [
+            "Get AWS Practitioner or Azure Fundamentals certified.",
+            "Learn deployment setups and load balancing concepts.",
+            "Map security and compliance checklists for a web system."
+          ]
+        }
+      ]
+    }
+  ]
+}

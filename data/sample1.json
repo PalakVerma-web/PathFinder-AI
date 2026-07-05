@@ -1,0 +1,184 @@
+{
+  "matches": [
+    {
+      "title": "Data Scientist",
+      "matchPercent": 94,
+      "reasoning": "Your solid foundation in Python and SQL, combined with your preference for problem-solving and building quantitative models, makes Data Science a perfect fit. Your background in statistics and analytical thinking aligns directly with industry needs.",
+      "skillsYouHave": ["Python", "SQL", "Excel", "Data Analysis"],
+      "skillsToLearn": ["Machine Learning", "Pandas & NumPy", "Scikit-Learn", "Statistics & Probability", "Tableau"],
+      "salaryRange": { "min": 600000, "max": 1500000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "High",
+      "confidenceScore": 95,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Advanced Python & Scientific Libraries",
+          "tasks": [
+            "Master Pandas and NumPy for complex data manipulation.",
+            "Complete a dataset cleaning project using Jupyter Notebooks.",
+            "Learn Exploratory Data Analysis (EDA) techniques."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "Applied Statistics & Visualization",
+          "tasks": [
+            "Study probability distributions, hypothesis testing, and regression analysis.",
+            "Learn Tableau or PowerBI to build interactive business dashboards.",
+            "Create a visualization project showing insights from a public dataset (e.g., Kaggle)."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "Machine Learning Fundamentals",
+          "tasks": [
+            "Learn supervised learning algorithms (Linear Regression, Decision Trees, SVM).",
+            "Understand model evaluation metrics (Precision, Recall, ROC-AUC).",
+            "Build a predictive model using Scikit-Learn."
+          ]
+        },
+        {
+          "month": 4,
+          "focus": "Unsupervised Learning & Feature Engineering",
+          "tasks": [
+            "Study clustering algorithms (K-Means, Hierarchical Clustering).",
+            "Learn dimensionality reduction using PCA.",
+            "Perform feature engineering on raw data to improve model score."
+          ]
+        },
+        {
+          "month": 5,
+          "focus": "SQL Optimization & Big Data Basics",
+          "tasks": [
+            "Master window functions, CTEs, and query optimization in SQL.",
+            "Get familiar with Spark or basic cloud data storage (AWS S3 / Google BigQuery).",
+            "Build an end-to-end ETL pipeline script."
+          ]
+        },
+        {
+          "month": 6,
+          "focus": "Portfolio Build & Interview Preparation",
+          "tasks": [
+            "Develop 3 polished GitHub repositories showcasing data projects.",
+            "Write a blog post explaining one of your machine learning models.",
+            "Practice SQL and ML coding challenges on LeetCode/HackerRank."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "matchPercent": 85,
+      "reasoning": "You enjoy building concrete engineering systems and have strong Python skills. ML engineering focuses more on production deployment, model serving, and pipeline automation, which matches your 'building' work preference.",
+      "skillsYouHave": ["Python", "SQL"],
+      "skillsToLearn": ["PyTorch or TensorFlow", "Docker", "Model Deployment", "MLOps", "Git", "API Development"],
+      "salaryRange": { "min": 800000, "max": 1800000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "High",
+      "confidenceScore": 88,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Deep Learning Basics & Frameworks",
+          "tasks": [
+            "Learn Neural Network fundamentals (Forward/Backward propagation).",
+            "Build basic models using PyTorch or TensorFlow.",
+            "Train a simple image classifier or text classifier."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "Software Engineering & Git workflows",
+          "tasks": [
+            "Learn OOP principles in Python and write modular, clean code.",
+            "Master advanced Git commands, branching, and pull requests.",
+            "Write unit tests for your data preprocessing functions."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "APIs & Containerization",
+          "tasks": [
+            "Build a REST API using FastAPI or Flask to serve model predictions.",
+            "Learn Docker and containerize your ML api service.",
+            "Deploy your container locally and test with Postman."
+          ]
+        },
+        {
+          "month": 4,
+          "focus": "MLOps & Cloud Deployments",
+          "tasks": [
+            "Deploy your Docker container to AWS ECS or GCP Cloud Run.",
+            "Understand CI/CD pipelines (GitHub Actions) for automatic builds.",
+            "Set up basic logging and model tracking (MLflow)."
+          ]
+        },
+        {
+          "month": 5,
+          "focus": "Data Pipelines at Scale",
+          "tasks": [
+            "Learn Airflow for orchestrating data pipelines.",
+            "Understand feature stores and data versioning (DVC).",
+            "Build an automated retrain pipeline trigger."
+          ]
+        },
+        {
+          "month": 6,
+          "focus": "Capstone & System Design",
+          "tasks": [
+            "Build an end-to-end production ML system (Scraping -> Training -> API -> Cloud).",
+            "Read system design blogs from Netflix, Uber, and Airbnb.",
+            "Prepare for ML system design interview questions."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "matchPercent": 82,
+      "reasoning": "A highly practical starting path. You already have Python and SQL skills, which are 70% of a Data Analyst's toolkit. This role allows you to break into the industry quickly before transitioning to complex ML roles.",
+      "skillsYouHave": ["Python", "SQL", "Excel", "Data Analysis"],
+      "skillsToLearn": ["Tableau or Power BI", "Business Analytics", "A/B Testing", "Dashboard Design", "Presentation Skills"],
+      "salaryRange": { "min": 450000, "max": 900000, "currency": "INR", "period": "annual" },
+      "demandOutlook": "Medium",
+      "confidenceScore": 90,
+      "roadmap": [
+        {
+          "month": 1,
+          "focus": "Advanced SQL & BI Tools",
+          "tasks": [
+            "Learn advanced SQL joins, subqueries, and window functions.",
+            "Start learning Tableau or Power BI.",
+            "Recreate a standard business dashboard using a sample dataset."
+          ]
+        },
+        {
+          "month": 2,
+          "focus": "Business Sense & Metrics",
+          "tasks": [
+            "Understand core business KPIs (CAC, LTV, Churn, ARR).",
+            "Learn how to translate business problems into data queries.",
+            "Write a business brief detailing insights from a sales dataset."
+          ]
+        },
+        {
+          "month": 3,
+          "focus": "Experimentation & Statistics",
+          "tasks": [
+            "Learn statistical significance and hypothesis testing.",
+            "Understand A/B testing frameworks and sizing.",
+            "Analyze a mock A/B test run and present recommendations."
+          ]
+        },
+        {
+          "month": 4,
+          "focus": "Storytelling & Reporting",
+          "tasks": [
+            "Learn dashboard design principles (color theory, layout hierarchy).",
+            "Build a highly polished, interactive executive dashboard.",
+            "Practice presenting findings to a non-technical audience."
+          ]
+        }
+      ]
+    }
+  ]
+}
